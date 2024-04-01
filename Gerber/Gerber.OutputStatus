@@ -1,0 +1,16 @@
+[OutputStatus]
+OutputFileNames0=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.GTL
+OutputFileNames1=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.GBL
+OutputFileNames2=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.GPB
+OutputFileNames3=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.GPT
+OutputFileNames4=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.GTO
+OutputFileNames5=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.GTS
+OutputFileNames6=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.GBS
+OutputFileNames7=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.Outline
+OutputFileNames8=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.3D Top
+OutputFileNames9=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.Courtyard Top
+OutputFileNames10=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.RUL
+OutputFileNames11=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.EXTREP
+OutputFileNames12=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\Gerber\PSU.REP
+Success=1
+HasRun=1

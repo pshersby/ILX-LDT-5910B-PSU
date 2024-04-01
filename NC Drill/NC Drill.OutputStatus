@@ -1,0 +1,6 @@
+[OutputStatus]
+OutputFileNames0=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\NC Drill\PSU.TXT
+OutputFileNames1=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\NC Drill\PSU.LDP
+OutputFileNames2=X:\ILX Power Supply\ILX_Power_Supply\Default Configuration\Outputs\NC Drill\PSU.DRR
+Success=1
+HasRun=1
